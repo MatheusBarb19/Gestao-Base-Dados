@@ -1,6 +1,6 @@
 # Gestao-Base-Dados
 
-## Objetivos
+## 🎯 Objetivos
 
 Estruturar de banco de dados, atualmente estruturado em Planilhas Excel no Google Drive, para arquivos CSVs otimizados para uso no Power BI. Com obejtivo de reduzir uso de memória, organizar de maneira modular e promover a automação de processos.
 
